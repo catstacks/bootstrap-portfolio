@@ -6013,7 +6013,7 @@ textarea.form-control-lg {
   content: "";
 }
 
-.carousel-item {
+/* .carousel-item {
   position: relative;
   display: none;
   float: left;
@@ -6022,7 +6022,8 @@ textarea.form-control-lg {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
-}
+} */
+
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
     transition: none;
