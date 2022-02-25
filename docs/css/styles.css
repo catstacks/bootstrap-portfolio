@@ -5985,7 +5985,8 @@ textarea.form-control-lg {
   padding: 1rem 1rem;
   color: #212529;
 }
-.carousel-item {
+
+/* .carousel-item {
   height: 100vh;
   min-height: 350px;
   background: no-repeat center center scroll;
@@ -5993,7 +5994,8 @@ textarea.form-control-lg {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
+} */
+
 .carousel {
   position: relative;
 }
@@ -6013,7 +6015,7 @@ textarea.form-control-lg {
   content: "";
 }
 
-/* .carousel-item {
+.carousel-item {
   position: relative;
   display: none;
   float: left;
@@ -6022,7 +6024,7 @@ textarea.form-control-lg {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
-} */
+}
 
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
